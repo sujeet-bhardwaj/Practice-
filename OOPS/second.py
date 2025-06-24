@@ -1,3 +1,2 @@
 print("second")
-print("masala")
-
+print("hello ji")
